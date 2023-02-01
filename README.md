@@ -4,7 +4,7 @@ Hi, my name is Francisco Rueda
 Sr. Software Engineer
 ---------------------
 
-A developer by profession, my passion is to automate things.
+A developer by profession, automating things my passion.
 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [frueda@protonmail.com](mailto:frueda@protonmail.com)
