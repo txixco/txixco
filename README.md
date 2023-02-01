@@ -1,4 +1,4 @@
-Hi 👋 My name is Francisco Rueda
+Hi, my name is Francisco Rueda
 ================================
 
 Sr. Software Engineer
