@@ -6,7 +6,7 @@ Sr. Software Engineer
 
 A developer by profession, automating things my passion.
 
-* 🌍  I'm based in Mexico City
+* 🌍  I'm currently based in Mexico City
 * ✉️  You can contact me at [frueda@protonmail.com](mailto:frueda@protonmail.com)
 * 🧠  I'm learning Haskell
 * 🤝  I'm open to collaborating on interesting projects
